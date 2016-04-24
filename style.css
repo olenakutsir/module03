@@ -5,10 +5,10 @@
 }
 .news-block:nth-of-type(2) {
     color: #00FF00;
-    float: inherit;
+    float: left;
      width: 33.3%;
 }
 .news-block:nth-of-type(3) {
     color: #0000FF;
-    float: right;
+   
 }
