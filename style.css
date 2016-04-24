@@ -1,0 +1,12 @@
+.news-block:nth-of-type(1) {
+    color: #FF0000;
+    float: left;
+}
+.news-block:nth-of-type(2) {
+    color: #00FF00;
+    float: none;
+}
+.news-block:nth-of-type(3) {
+    color: #0000FF;
+    float: right;
+}
